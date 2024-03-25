@@ -1,4 +1,14 @@
-### Hi there 👋
+# 可以叫我方竹（Hi I'm CubeBamboo!）
+
+<img align="right" src = [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CubeBamboo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)>
+
+## 会摸的(Something I want to learn)
+- game development
+- composing music
+- program framework maybe
+- osu!4key mapping
+- vector illustration
+- thinking(
 
 <!--
 **CubeBamboo/CubeBamboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
