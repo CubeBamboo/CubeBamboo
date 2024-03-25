@@ -1,6 +1,8 @@
 # 可以叫我方竹（Hi I'm CubeBamboo!）
 
-<img align="right" src = [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CubeBamboo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)>
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CubeBamboo&layout=compact&repo=github-readme-stats" />
+</a>-->
 
 ## 会摸的(Something I want to learn)
 - game development
@@ -10,6 +12,7 @@
 - vector illustration
 - thinking(
 
+欢迎找我玩
 <!--
 **CubeBamboo/CubeBamboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
