@@ -36,7 +36,7 @@
 
 ## 媒体链接(Social links)
 [![Bilibili](https://img.shields.io/badge/-CubeBamboo-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/34977477)
-[![X](https://img.shields.io/badge/-cube__bamboo-black?style=flat-square&logo=x&logoColor=white&labelColor=black)](https://twitter.com/cube_bamboo)
-[![osu!](https://img.shields.io/badge/-CubeBamboo-EF6DA7?style=flat-square&logo=osu&logoColor=white&labelColor=EF6DA7)](https://osu.ppy.sh/users/30920469)
+[![OSU!](https://img.shields.io/badge/-CubeBamboo-EF6DA7?style=flat-square&logo=osu&logoColor=white&labelColor=EF6DA7)](https://osu.ppy.sh/users/30920469)
+Discord: cubebamboo
 
 to be continued-->
