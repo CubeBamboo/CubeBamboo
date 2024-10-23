@@ -17,10 +17,10 @@
 ## 会摸的，但是咕咕咕(Something I want to learn, but coming s∞n)
 - software development
 - design patterns and architecture
-- osu!mania 4key mapping
+- rhythm game, especially osu
 - music and art
 
-## Here is my angel...
+## Here is my angel!
 
 <div align=middle>
   <img src="res/taffy1.png" width="300" height="300" />
