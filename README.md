@@ -22,17 +22,7 @@
 
 ## Here is my angel!
 
-<div align=middle>
-  <img src="res/taffy1.png" width="300" height="300" />
-  <br/>
-  <font color="grey">
-    <a href="https://space.bilibili.com/1265680561">
-      acetaffy
-    </a>
-  </font>
-</div>
-
-
+--> <font color="grey"><a href="https://space.bilibili.com/1265680561">acetaffy</a></font>
 
 ## 媒体链接(Social links)
 [![Bilibili](https://img.shields.io/badge/-CubeBamboo-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/34977477)
