@@ -20,6 +20,12 @@
 - rhythm game, especially osu
 - music and art
 
+## 看看这个(Here is my angel.)
+
+--> 
+<font color="grey"><a href="https://space.bilibili.com/1265680561">acetaffy</a></font>
+<img src="res/taffy1.png" width="30" height="30"/>
+
 ## 媒体链接(Social links)
 [![Bilibili](https://img.shields.io/badge/-CubeBamboo-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/34977477)
 [![OSU!](https://img.shields.io/badge/-CubeBamboo-EF6DA7?style=flat-square&logo=osu&logoColor=white&labelColor=EF6DA7)](https://osu.ppy.sh/users/30920469)
