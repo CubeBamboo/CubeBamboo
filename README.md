@@ -20,7 +20,7 @@
 - rhythm game, especially osu
 - music and art
 
-## 关注塔菲喵(Here is my angel previously.)
+## 关注塔菲喵(Here is my angel.)
 
 --> 
 <font color="grey"><a href="https://space.bilibili.com/1265680561">acetaffy</a></font>
