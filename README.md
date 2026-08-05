@@ -13,7 +13,9 @@ most contributions in 2024.
 here is my angel --> <font color="grey"><a href="https://space.bilibili.com/1265680561">acetaffy</a></font>
 <img src="res/taffy1.png" width="30" height="30"/>
 
-my playing --> arknights endfield, wuthering waves, honkai star rail
+my playing --> arknights endfield, wuthering waves, honkai star rail, osu!
+
+my listening --> feint, camellia
 
 ## If you wanna contact me
 
